@@ -4,3 +4,7 @@ Folium: https://towardsdatascience.com/data-101s-spatial-visualizations-and-anal
 
 GeoCode:
 https://pub.towardsai.net/geocode-millions-of-locations-without-being-sued-8a85e8cc8793
+
+
+Books:
+https://medium.com/spatial-data-science/the-best-new-books-to-study-geospatial-data-science-7e162771c7eb
