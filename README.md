@@ -8,3 +8,4 @@ https://pub.towardsai.net/geocode-millions-of-locations-without-being-sued-8a85e
 
 Books:
 https://medium.com/spatial-data-science/the-best-new-books-to-study-geospatial-data-science-7e162771c7eb
+https://www.eefabook.org/go-to-the-book.html
