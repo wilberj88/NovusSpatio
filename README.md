@@ -11,6 +11,8 @@ https://towardsdatascience.com/artificial-intelligence-for-geospatial-analysis-w
 GeoViews Python
 https://towardsdatascience.com/interactive-geospatial-data-visualization-with-geoviews-in-python-7d5335c8efd1
 
+Osmnx Python:
+https://medium.com/pythoneers/plotting-my-city-using-osmnx-13901ca9081a
 
 Books:
 https://medium.com/spatial-data-science/the-best-new-books-to-study-geospatial-data-science-7e162771c7eb
