@@ -8,6 +8,9 @@ https://pub.towardsai.net/geocode-millions-of-locations-without-being-sued-8a85e
 GeoSpatial
 https://towardsdatascience.com/artificial-intelligence-for-geospatial-analysis-with-pytorchs-torchgeo-part-1-52d17e409f09
 
+GeoViews Python
+https://towardsdatascience.com/interactive-geospatial-data-visualization-with-geoviews-in-python-7d5335c8efd1
+
 
 Books:
 https://medium.com/spatial-data-science/the-best-new-books-to-study-geospatial-data-science-7e162771c7eb
