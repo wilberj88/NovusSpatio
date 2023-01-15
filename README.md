@@ -14,6 +14,9 @@ https://towardsdatascience.com/interactive-geospatial-data-visualization-with-ge
 Osmnx Python:
 https://medium.com/pythoneers/plotting-my-city-using-osmnx-13901ca9081a
 
+Open Source Libraries
+https://medium.com/spatial-data-science/explore-open-source-python-gis-and-earth-observation-libraries-interactively-8f22851745f9
+
 Books:
 https://medium.com/spatial-data-science/the-best-new-books-to-study-geospatial-data-science-7e162771c7eb
 https://www.eefabook.org/go-to-the-book.html
