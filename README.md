@@ -21,3 +21,6 @@ https://medium.com/spatial-data-science/explore-open-source-python-gis-and-earth
 Books:
 https://medium.com/spatial-data-science/the-best-new-books-to-study-geospatial-data-science-7e162771c7eb
 https://www.eefabook.org/go-to-the-book.html
+
+Raster´s Data as ML and AI inputs
+https://levelup.gitconnected.com/use-rasters-data-as-ml-and-ai-inputs-b6cc6ea31f84
