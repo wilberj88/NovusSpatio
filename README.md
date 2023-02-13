@@ -22,6 +22,9 @@ https://medium.com/spatial-data-science/explore-open-source-python-gis-and-earth
 3D
 https://threejs.org/examples/#webgl_shaders_tonemapping
 
+Map base app:
+https://towardsdatascience.com/a-step-by-step-guide-to-develop-a-map-based-application-part-i-757766b04f77
+
 Books:
 https://medium.com/spatial-data-science/the-best-new-books-to-study-geospatial-data-science-7e162771c7eb
 https://www.eefabook.org/go-to-the-book.html
