@@ -5,9 +5,10 @@ Folium: https://towardsdatascience.com/data-101s-spatial-visualizations-and-anal
 GeoCode:
 https://pub.towardsai.net/geocode-millions-of-locations-without-being-sued-8a85e8cc8793
 
-GeoSpatial
+GeoSpatial Indexing & Scoring:
 https://towardsdatascience.com/artificial-intelligence-for-geospatial-analysis-with-pytorchs-torchgeo-part-1-52d17e409f09
 https://towardsdatascience.com/artificial-intelligence-for-geospatial-analysis-with-pytorchs-torchgeo-part-2-ec3785fae284
+https://towardsdatascience.com/geospatial-indexing-and-scoring-unlocking-the-power-of-location-based-data-analysis-b77a7599b4c
 
 GeoViews Python
 https://towardsdatascience.com/interactive-geospatial-data-visualization-with-geoviews-in-python-7d5335c8efd1
