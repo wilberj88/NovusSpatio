@@ -5,6 +5,10 @@ Folium: https://towardsdatascience.com/data-101s-spatial-visualizations-and-anal
 GeoCode:
 https://pub.towardsai.net/geocode-millions-of-locations-without-being-sued-8a85e8cc8793
 
+
+Urban Geospatial Data with ChatGPT
+https://medium.com/@yrbiablog/generating-urban-geospatial-data-with-chatgpt-44144c94f678
+
 GeoSpatial Indexing & Scoring:
 https://towardsdatascience.com/artificial-intelligence-for-geospatial-analysis-with-pytorchs-torchgeo-part-1-52d17e409f09
 https://towardsdatascience.com/artificial-intelligence-for-geospatial-analysis-with-pytorchs-torchgeo-part-2-ec3785fae284
