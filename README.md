@@ -19,6 +19,9 @@ https://medium.com/@yrbiablog/generating-urban-geospatial-data-with-chatgpt-4414
 Semantic Segmentation: buildings, roads...
 https://medium.com/@jrballesteros/remote-sensing-datasets-for-artificial-intelligence-semantic-segmentation-1737ca1f35c1
 
+Color Map Design:
+https://towardsdatascience.com/creating-beautiful-maps-with-python-beyond-the-defaults-c92593ccf2cc
+
 GeoSpatial Indexing & Scoring:
 https://towardsdatascience.com/artificial-intelligence-for-geospatial-analysis-with-pytorchs-torchgeo-part-1-52d17e409f09
 https://towardsdatascience.com/artificial-intelligence-for-geospatial-analysis-with-pytorchs-torchgeo-part-2-ec3785fae284
