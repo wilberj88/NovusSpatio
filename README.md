@@ -4,6 +4,7 @@ Folium: https://towardsdatascience.com/data-101s-spatial-visualizations-and-anal
 
 Felt library:
 https://medium.com/spatial-data-science/a-revolutionary-way-to-create-and-share-maps-on-the-web-a76ffeb428b0
+https://felt.com/
 
 GeoCode:
 https://pub.towardsai.net/geocode-millions-of-locations-without-being-sued-8a85e8cc8793
