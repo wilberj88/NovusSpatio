@@ -7,6 +7,9 @@ Streamlit-Geospatial:
 https://github.com/giswqs/streamlit-geospatial
 https://huggingface.co/spaces/giswqs/Streamlit
 
+PrettyMap:
+https://github.com/chrieke/prettymapp
+
 Folium: https://towardsdatascience.com/data-101s-spatial-visualizations-and-analysis-in-python-with-folium-39730da2adf
 
 Felt library:
