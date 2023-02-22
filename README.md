@@ -1,5 +1,8 @@
 # NovusSpatio
 
+World´s official Boundaries:
+https://datacatalog.worldbank.org/search/dataset/0038272/World-Bank-Official-Boundaries
+
 Folium: https://towardsdatascience.com/data-101s-spatial-visualizations-and-analysis-in-python-with-folium-39730da2adf
 
 Felt library:
