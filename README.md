@@ -61,6 +61,7 @@ https://www.eefabook.org/go-to-the-book.html
 
 Raster´s Data as ML and AI inputs
 https://levelup.gitconnected.com/use-rasters-data-as-ml-and-ai-inputs-b6cc6ea31f84
+https://python.plainenglish.io/how-to-normalize-a-raster-image-via-python-and-gdal-7238d0e2140f
 
 GPT3 for real state:
 https://levelup.gitconnected.com/chatgpt-calculate-real-estate-metrics-with-python-45c09ebc62bb
