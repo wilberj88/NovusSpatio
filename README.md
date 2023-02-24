@@ -7,6 +7,9 @@ Streamlit-Geospatial:
 https://github.com/giswqs/streamlit-geospatial
 https://huggingface.co/spaces/giswqs/Streamlit
 
+GeoSpatial Trick`s:
+https://towardsdatascience.com/accelerate-geospatial-data-science-with-these-tricks-752d8b4e5381
+
 PrettyMap:
 https://github.com/chrieke/prettymapp
 
