@@ -63,6 +63,9 @@ Books:
 https://medium.com/spatial-data-science/the-best-new-books-to-study-geospatial-data-science-7e162771c7eb
 https://www.eefabook.org/go-to-the-book.html
 
+Tutorial:
+https://towardsdatascience.com/how-to-learn-geospatial-data-science-in-2023-441d8386284e
+
 Raster´s Data as ML and AI inputs
 https://levelup.gitconnected.com/use-rasters-data-as-ml-and-ai-inputs-b6cc6ea31f84
 https://python.plainenglish.io/how-to-normalize-a-raster-image-via-python-and-gdal-7238d0e2140f
