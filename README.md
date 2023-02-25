@@ -10,6 +10,9 @@ https://huggingface.co/spaces/giswqs/Streamlit
 GeoSpatial Trick`s:
 https://towardsdatascience.com/accelerate-geospatial-data-science-with-these-tricks-752d8b4e5381
 
+Pydeck:
+https://medium.com/@pether.maciejewski/pydeck-python-data-visualization-column-layer-on-carto-maps-58a013fe940d
+
 PrettyMap:
 https://github.com/chrieke/prettymapp
 
