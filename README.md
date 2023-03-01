@@ -10,8 +10,9 @@ Streamlit-Geospatial:
 https://github.com/giswqs/streamlit-geospatial
 https://huggingface.co/spaces/giswqs/Streamlit
 
-GeoSpatial Trick`s:
+GeoSpatial Tutorials & Tricks:
 https://towardsdatascience.com/accelerate-geospatial-data-science-with-these-tricks-752d8b4e5381
+https://towardsdatascience.com/a-practical-introduction-to-geospatial-data-analysis-using-qgis-a6f82105b30e
 
 Pydeck:
 https://medium.com/@pether.maciejewski/pydeck-python-data-visualization-column-layer-on-carto-maps-58a013fe940d
