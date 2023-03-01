@@ -77,3 +77,6 @@ https://python.plainenglish.io/how-to-normalize-a-raster-image-via-python-and-gd
 GPT3 for real state:
 https://levelup.gitconnected.com/chatgpt-calculate-real-estate-metrics-with-python-45c09ebc62bb
 https://medium.com/@felipempfreelancer/using-chatgpt-to-build-a-simple-webgis-b832781ded8b
+
+R Rayshader for Population Density:
+https://github.com/Pecners/rayshader_portraits
