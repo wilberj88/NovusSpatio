@@ -6,6 +6,10 @@ https://medium.com/geekculture/proximity-analysis-using-python-ffd16c457f19
 World´s official Boundaries:
 https://datacatalog.worldbank.org/search/dataset/0038272/World-Bank-Official-Boundaries
 
+Mapping addresses
+https://medium.com/@jrballesteros/geocoding-and-mapping-a-spreadsheet-addresses-b7e781d6f8f2
+
+
 Streamlit-Geospatial:
 https://github.com/giswqs/streamlit-geospatial
 https://huggingface.co/spaces/giswqs/Streamlit
