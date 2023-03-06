@@ -9,6 +9,10 @@ https://datacatalog.worldbank.org/search/dataset/0038272/World-Bank-Official-Bou
 Mapping addresses
 https://medium.com/@jrballesteros/geocoding-and-mapping-a-spreadsheet-addresses-b7e781d6f8f2
 
+Streamlit Visualizaciones:
+Charts - eChart: 1) Map-Usa
+PyeCharts: 1) Map
+
 
 Streamlit-Geospatial:
 https://github.com/giswqs/streamlit-geospatial
