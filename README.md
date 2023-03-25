@@ -15,6 +15,10 @@ Streamlit Visualizaciones:
 Charts - eChart: 1) Map-Usa
 PyeCharts: 1) Map
 
+Preprocessing operations:
+https://regenerativetoday.com/some-basic-image-preprocessing-operations-for-beginners-in-python/
+
+
 UI Kit:
 https://www.kontur.io/blog/ui-kit/
 
