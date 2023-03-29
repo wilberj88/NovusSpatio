@@ -61,6 +61,9 @@ https://affine.medium.com/see-the-world-through-your-lens-introducing-next-gen-a
 Color Map Design:
 https://towardsdatascience.com/creating-beautiful-maps-with-python-beyond-the-defaults-c92593ccf2cc
 
+Heat Maps:
+https://towardsdatascience.com/creating-geospatial-heatmaps-with-pythons-plotly-and-folium-libraries-4159e98a1ae8
+
 GeoSpatial Indexing & Scoring:
 https://towardsdatascience.com/artificial-intelligence-for-geospatial-analysis-with-pytorchs-torchgeo-part-1-52d17e409f09
 https://towardsdatascience.com/artificial-intelligence-for-geospatial-analysis-with-pytorchs-torchgeo-part-2-ec3785fae284
