@@ -3,6 +3,9 @@
 Proximity analysis:
 https://medium.com/geekculture/proximity-analysis-using-python-ffd16c457f19
 
+Predicción de crecimiento urbano:
+https://github.com/EL-BID/Modelo-de-prediccion-de-crecimiento-urbano-
+
 World´s official Boundaries:
 https://datacatalog.worldbank.org/search/dataset/0038272/World-Bank-Official-Boundaries
 
