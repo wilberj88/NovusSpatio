@@ -93,6 +93,8 @@ https://www.eefabook.org/go-to-the-book.html
 
 Tutorial:
 https://towardsdatascience.com/how-to-learn-geospatial-data-science-in-2023-441d8386284e
+A comprehensive guide for getting started with OpenStreetMap | by Eugenia Anello | Apr, 2023 | Towards Data Science
+https://towardsdatascience.com/a-comprehensive-guide-for-getting-started-with-openstreetmap-e92dff95fc80
 
 Raster´s Data as ML and AI inputs
 https://levelup.gitconnected.com/use-rasters-data-as-ml-and-ai-inputs-b6cc6ea31f84
