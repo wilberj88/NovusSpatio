@@ -22,6 +22,9 @@ Preprocessing operations:
 https://regenerativetoday.com/some-basic-image-preprocessing-operations-for-beginners-in-python/
 
 
+A Sustainable Supply Chain Template with Geospatial Calculations in Python | by Sabi Horvat | Apr, 2023 | Towards Data Science
+https://towardsdatascience.com/a-sustainable-supply-chain-template-with-geospatial-calculations-in-python-f99a20a43df4
+
 UI Kit:
 https://www.kontur.io/blog/ui-kit/
 
