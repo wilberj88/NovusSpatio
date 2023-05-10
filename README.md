@@ -28,6 +28,10 @@ https://towardsdatascience.com/a-sustainable-supply-chain-template-with-geospati
 UI Kit:
 https://www.kontur.io/blog/ui-kit/
 
+Geospatial Data Analysis in Python | by Pier Paolo Ippolito | May, 2023 | Towards Data Science
+https://towardsdatascience.com/geospatial-data-analysis-in-python-d8fa8dd23a6c
+
+
 Streamlit-Geospatial:
 https://github.com/giswqs/streamlit-geospatial
 https://huggingface.co/spaces/giswqs/Streamlit
