@@ -64,6 +64,7 @@ Urban Geospatial Data with ChatGPT
 https://medium.com/@yrbiablog/generating-urban-geospatial-data-with-chatgpt-44144c94f678
 
 Semantic Segmentation: buildings, roads...
+https://medium.com/@daniel_819/a-web-map-in-10-lines-of-code-with-streamlit-ellipsis-and-folium-6e41f7407d68
 https://medium.com/@jrballesteros/remote-sensing-datasets-for-artificial-intelligence-semantic-segmentation-1737ca1f35c1
 https://medium.com/spatial-data-science/deep-learning-for-geospatial-data-applications-semantic-segmentation-596d5d6e7c34
 https://affine.medium.com/see-the-world-through-your-lens-introducing-next-gen-ai-satellite-image-segmentation-solution-a236dda7cf17
