@@ -12,6 +12,9 @@ https://datacatalog.worldbank.org/search/dataset/0038272/World-Bank-Official-Bou
 Mapping addresses
 https://medium.com/@jrballesteros/geocoding-and-mapping-a-spreadsheet-addresses-b7e781d6f8f2
 
+Talk to Maps:
+https://medium.com/earthrisemedia/chatgeopt-exploring-the-future-of-talking-to-our-maps-b1f82903bb05
+
 Satellite Image Time Series: https://towardsdatascience.com/what-is-a-satellite-image-time-series-c0516c534ba9 Agriculture, Forest Monitoring, Climate, Urban Planning, Disaster Response, SITS
 
 Streamlit Visualizaciones:
