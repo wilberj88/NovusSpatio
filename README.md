@@ -97,6 +97,9 @@ https://medium.com/spatial-data-science/explore-open-source-python-gis-and-earth
 3D
 https://threejs.org/examples/#webgl_shaders_tonemapping
 
+DIGITAL ELEVATION MODEL (DEM)
+https://towardsdatascience.com/accessing-and-visualizing-digital-elevation-models-with-python-f4fd7f595d46
+
 Map base app:
 https://towardsdatascience.com/a-step-by-step-guide-to-develop-a-map-based-application-part-i-757766b04f77
 
