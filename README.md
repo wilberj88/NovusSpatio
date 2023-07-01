@@ -3,6 +3,9 @@
 Proximity analysis:
 https://medium.com/geekculture/proximity-analysis-using-python-ffd16c457f19
 
+Race on a live map:
+https://blog.streamlit.io/display-a-race-on-a-live-map/
+
 Predicción de crecimiento urbano:
 https://github.com/EL-BID/Modelo-de-prediccion-de-crecimiento-urbano-
 
