@@ -6,6 +6,9 @@ https://medium.com/geekculture/proximity-analysis-using-python-ffd16c457f19
 Race on a live map:
 https://blog.streamlit.io/display-a-race-on-a-live-map/
 
+Gif Map:
+https://towardsdatascience.com/how-to-make-a-gif-map-using-python-geopandas-and-matplotlib-cd8827cefbc8
+
 Predicción de crecimiento urbano:
 https://github.com/EL-BID/Modelo-de-prediccion-de-crecimiento-urbano-
 
