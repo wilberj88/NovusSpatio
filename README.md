@@ -6,6 +6,8 @@ https://medium.com/geekculture/proximity-analysis-using-python-ffd16c457f19
 Race on a live map:
 https://blog.streamlit.io/display-a-race-on-a-live-map/
 
+AirBnBNew York´s Data Analysis:
+https://levelup.gitconnected.com/exploratory-analysis-of-new-york-city-airbnb-data-in-python-426ab231891d
 
 Track your owns travels: https://betterprogramming.pub/keep-track-of-your-travels-with-plotly-express-ce62d4e67127
 
