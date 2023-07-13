@@ -1,8 +1,10 @@
 # NovusSpatio
 
 Proximity analysis:
+https://python.plainenglish.io/exploring-openstreetmap-data-using-geopandas-d62b55fc40a4
 https://medium.com/geekculture/proximity-analysis-using-python-ffd16c457f19
 https://medium.com/@guandika8/analysis-of-spatial-data-using-osmnx-da9c73b0de0a
+
 
 Race on a live map:
 https://blog.streamlit.io/display-a-race-on-a-live-map/
