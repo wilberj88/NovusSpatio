@@ -121,6 +121,7 @@ https://towardsdatascience.com/a-step-by-step-guide-to-develop-a-map-based-appli
 Books:
 https://medium.com/spatial-data-science/the-best-new-books-to-study-geospatial-data-science-7e162771c7eb
 https://www.eefabook.org/go-to-the-book.html
+https://medium.com/spatial-data-science/6-new-must-read-books-in-geospatial-data-science-114e017c9f03
 
 Tutorial:
 https://towardsdatascience.com/how-to-learn-geospatial-data-science-in-2023-441d8386284e
