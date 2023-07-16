@@ -26,6 +26,9 @@ https://datacatalog.worldbank.org/search/dataset/0038272/World-Bank-Official-Bou
 Mapping addresses
 https://medium.com/@jrballesteros/geocoding-and-mapping-a-spreadsheet-addresses-b7e781d6f8f2
 
+Vega-Altair Maps:
+https://medium.com/data-analytics-at-nesta/vega-altair-interactive-maps-d9c3bd77af50
+
 Talk to Maps:
 https://medium.com/earthrisemedia/chatgeopt-exploring-the-future-of-talking-to-our-maps-b1f82903bb05
 
