@@ -8,6 +8,9 @@ https://medium.com/@guandika8/analysis-of-spatial-data-using-osmnx-da9c73b0de0a
 PropTech Tutorial:
 https://blog.streamlit.io/analyzing-real-estate-properties-with-streamlit/
 
+Mapbox with just Python:
+https://medium.com/anvil-works/integrate-mapbox-into-your-web-app-using-only-python-dcdf54683434
+
 Race on a live map:
 https://blog.streamlit.io/display-a-race-on-a-live-map/
 
