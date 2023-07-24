@@ -90,6 +90,7 @@ https://medium.com/@moradouasti/the-future-of-gis-with-chatgpt-a9d2588e841a
 
 Urban Geospatial Data with ChatGPT
 https://medium.com/@yrbiablog/generating-urban-geospatial-data-with-chatgpt-44144c94f678
+https://medium.com/@steph_GISnerd/how-i-used-chatgpt-to-help-build-a-geospatial-webapp-2f469680b223
 
 Semantic Segmentation: buildings, roads...
 https://medium.com/@daniel_819/a-web-map-in-10-lines-of-code-with-streamlit-ellipsis-and-folium-6e41f7407d68
