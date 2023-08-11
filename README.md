@@ -10,7 +10,8 @@ https://towardsdatascience.com/say-goodbye-to-flat-maps-with-pydeck-5ce440177bcd
 
 Geospatial Count of Trees: https://towardsdatascience.com/speed-up-your-geospatial-data-analysis-with-r-trees-4f75abdc6025
 
-
+3D Maps:
+https://towardsdatascience.com/say-goodbye-to-flat-maps-with-pydeck-5ce440177bcd
 
 PropTech Tutorial:
 https://blog.streamlit.io/analyzing-real-estate-properties-with-streamlit/
