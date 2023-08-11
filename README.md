@@ -6,6 +6,7 @@ https://medium.com/geekculture/proximity-analysis-using-python-ffd16c457f19
 https://medium.com/@guandika8/analysis-of-spatial-data-using-osmnx-da9c73b0de0a
 
 Global Population Density for 400m H3: https://data.humdata.org/dataset/kontur-population-dataset
+https://towardsdatascience.com/say-goodbye-to-flat-maps-with-pydeck-5ce440177bcd
 
 Geospatial Count of Trees: https://towardsdatascience.com/speed-up-your-geospatial-data-analysis-with-r-trees-4f75abdc6025
 
