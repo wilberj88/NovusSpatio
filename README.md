@@ -4,6 +4,7 @@ Proximity analysis:
 https://python.plainenglish.io/exploring-openstreetmap-data-using-geopandas-d62b55fc40a4
 https://medium.com/geekculture/proximity-analysis-using-python-ffd16c457f19
 https://medium.com/@guandika8/analysis-of-spatial-data-using-osmnx-da9c73b0de0a
+https://medium.com/@CalebMBowyer/research-trend-6-localization-cef3001f5222
 
 Global Population Density for 400m H3: https://data.humdata.org/dataset/kontur-population-dataset
 https://towardsdatascience.com/say-goodbye-to-flat-maps-with-pydeck-5ce440177bcd
