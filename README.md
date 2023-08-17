@@ -26,6 +26,9 @@ https://blog.streamlit.io/display-a-race-on-a-live-map/
 GeoPlotLib:
 https://medium.com/@HeCanThink/geoplotlib-exploring-the-world-with-python-%EF%B8%8F-bbd2bd583760
 
+Kano manages both space and time information:
+https://claustres.medium.com/kano-geospatial-visualizer-v2-is-out-4009f0fc94ea
+
 AirBnBNew York´s Data Analysis:
 https://levelup.gitconnected.com/exploratory-analysis-of-new-york-city-airbnb-data-in-python-426ab231891d
 
