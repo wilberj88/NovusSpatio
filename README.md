@@ -23,6 +23,9 @@ https://medium.com/anvil-works/integrate-mapbox-into-your-web-app-using-only-pyt
 Race on a live map:
 https://blog.streamlit.io/display-a-race-on-a-live-map/
 
+GeoPlotLib:
+https://medium.com/@HeCanThink/geoplotlib-exploring-the-world-with-python-%EF%B8%8F-bbd2bd583760
+
 AirBnBNew York´s Data Analysis:
 https://levelup.gitconnected.com/exploratory-analysis-of-new-york-city-airbnb-data-in-python-426ab231891d
 
