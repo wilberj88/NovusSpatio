@@ -12,6 +12,9 @@ https://towardsdatascience.com/analyzing-geospatial-data-with-python-7244c1b9e30
 Global Population Density for 400m H3: https://data.humdata.org/dataset/kontur-population-dataset
 https://towardsdatascience.com/say-goodbye-to-flat-maps-with-pydeck-5ce440177bcd
 
+Real Time Map:
+https://medium.com/streamlit/display-a-race-on-a-live-map-d29ff0ee0251
+
 Geospatial Count of Trees: https://towardsdatascience.com/speed-up-your-geospatial-data-analysis-with-r-trees-4f75abdc6025
 
 3D Maps:
