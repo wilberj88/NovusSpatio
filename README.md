@@ -40,6 +40,9 @@ Track your owns travels: https://betterprogramming.pub/keep-track-of-your-travel
 Gif Map:
 https://towardsdatascience.com/how-to-make-a-gif-map-using-python-geopandas-and-matplotlib-cd8827cefbc8
 
+SpatioTemporal Analysis:
+https://leonwei.com/plotly-geographic-maps-tutorial-bdc644e8766e
+
 Predicción de crecimiento urbano:
 https://github.com/EL-BID/Modelo-de-prediccion-de-crecimiento-urbano-
 
