@@ -15,6 +15,9 @@ https://towardsdatascience.com/say-goodbye-to-flat-maps-with-pydeck-5ce440177bcd
 Real Time Map:
 https://medium.com/streamlit/display-a-race-on-a-live-map-d29ff0ee0251
 
+Temporal animations Geogiffery:
+https://medium.com/@tjukanov/geogiffery-in-a-nutshell-introduction-to-qgis-time-manager-31bb79f2af19
+
 Geospatial Count of Trees: https://towardsdatascience.com/speed-up-your-geospatial-data-analysis-with-r-trees-4f75abdc6025
 
 3D Maps:
