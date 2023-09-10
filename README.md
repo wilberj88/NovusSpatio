@@ -48,6 +48,7 @@ https://towardsdatascience.com/how-to-make-a-gif-map-using-python-geopandas-and-
 
 SpatioTemporal Analysis:
 https://leonwei.com/plotly-geographic-maps-tutorial-bdc644e8766e
+https://medium.com/data-and-beyond/dash-ing-maps-with-chatgpt-and-python-interactive-maps-in-no-time-flat-bf418566b71d
 
 Predicción de crecimiento urbano:
 https://github.com/EL-BID/Modelo-de-prediccion-de-crecimiento-urbano-
