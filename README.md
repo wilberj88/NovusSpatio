@@ -104,7 +104,9 @@ https://medium.com/@pether.maciejewski/pydeck-python-data-visualization-column-l
 PrettyMap:
 https://github.com/chrieke/prettymapp
 
-Folium: https://towardsdatascience.com/data-101s-spatial-visualizations-and-analysis-in-python-with-folium-39730da2adf
+Folium: 
+https://towardsdatascience.com/how-to-generate-interactive-maps-with-folium-b232778758c4
+https://towardsdatascience.com/data-101s-spatial-visualizations-and-analysis-in-python-with-folium-39730da2adf
 
 Felt library:
 https://medium.com/spatial-data-science/a-revolutionary-way-to-create-and-share-maps-on-the-web-a76ffeb428b0
