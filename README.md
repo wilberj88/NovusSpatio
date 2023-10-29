@@ -169,6 +169,7 @@ A comprehensive guide for getting started with OpenStreetMap | by Eugenia Anello
 https://towardsdatascience.com/a-comprehensive-guide-for-getting-started-with-openstreetmap-e92dff95fc80
 
 Raster´s Data as ML and AI inputs
+https://medium.com/@robsimmon/making-sense-of-satellite-data-an-open-source-workflow-accessing-data-8f7f3c30f151
 https://levelup.gitconnected.com/use-rasters-data-as-ml-and-ai-inputs-b6cc6ea31f84
 https://python.plainenglish.io/how-to-normalize-a-raster-image-via-python-and-gdal-7238d0e2140f
 
