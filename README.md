@@ -6,6 +6,9 @@ https://medium.com/geekculture/proximity-analysis-using-python-ffd16c457f19
 https://medium.com/@guandika8/analysis-of-spatial-data-using-osmnx-da9c73b0de0a
 https://medium.com/@CalebMBowyer/research-trend-6-localization-cef3001f5222
 
+Land cover elevation and slope:
+https://khorkeanteng.medium.com/land-cover-elevation-and-slope-d6b307560178
+
 AirBnB Analysis:
 https://towardsdatascience.com/analyzing-geospatial-data-with-python-7244c1b9e302
 
