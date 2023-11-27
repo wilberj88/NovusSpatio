@@ -6,6 +6,14 @@ https://medium.com/geekculture/proximity-analysis-using-python-ffd16c457f19
 https://medium.com/@guandika8/analysis-of-spatial-data-using-osmnx-da9c73b0de0a
 https://medium.com/@CalebMBowyer/research-trend-6-localization-cef3001f5222
 
+Semantic Segmentation: buildings, roads...
+https://medium.com/geoalert-platform-urban-monitoring/segment-anything-with-mapflow-b0d3d3b79c1
+https://medium.com/@daniel_819/a-web-map-in-10-lines-of-code-with-streamlit-ellipsis-and-folium-6e41f7407d68
+https://medium.com/@jrballesteros/remote-sensing-datasets-for-artificial-intelligence-semantic-segmentation-1737ca1f35c1
+https://medium.com/spatial-data-science/deep-learning-for-geospatial-data-applications-semantic-segmentation-596d5d6e7c34
+https://affine.medium.com/see-the-world-through-your-lens-introducing-next-gen-ai-satellite-image-segmentation-solution-a236dda7cf17
+
+
 Land cover elevation and slope:
 https://khorkeanteng.medium.com/land-cover-elevation-and-slope-d6b307560178
 
@@ -127,11 +135,6 @@ Urban Geospatial Data with ChatGPT
 https://medium.com/@yrbiablog/generating-urban-geospatial-data-with-chatgpt-44144c94f678
 https://medium.com/@steph_GISnerd/how-i-used-chatgpt-to-help-build-a-geospatial-webapp-2f469680b223
 
-Semantic Segmentation: buildings, roads...
-https://medium.com/@daniel_819/a-web-map-in-10-lines-of-code-with-streamlit-ellipsis-and-folium-6e41f7407d68
-https://medium.com/@jrballesteros/remote-sensing-datasets-for-artificial-intelligence-semantic-segmentation-1737ca1f35c1
-https://medium.com/spatial-data-science/deep-learning-for-geospatial-data-applications-semantic-segmentation-596d5d6e7c34
-https://affine.medium.com/see-the-world-through-your-lens-introducing-next-gen-ai-satellite-image-segmentation-solution-a236dda7cf17
 
 Color Map Design:
 https://towardsdatascience.com/creating-beautiful-maps-with-python-beyond-the-defaults-c92593ccf2cc
