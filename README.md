@@ -27,6 +27,8 @@ https://towardsdatascience.com/exploring-large-scale-raster-population-data-7280
 Real Time Map:
 https://medium.com/streamlit/display-a-race-on-a-live-map-d29ff0ee0251
 
+https://appliedsciences.nasa.gov/get-involved/training/english/arset-fundamentals-remote-sensing
+
 Temporal animations Geogiffery:
 https://medium.com/@tjukanov/geogiffery-in-a-nutshell-introduction-to-qgis-time-manager-31bb79f2af19
 
