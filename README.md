@@ -5,6 +5,7 @@ https://python.plainenglish.io/exploring-openstreetmap-data-using-geopandas-d62b
 https://medium.com/geekculture/proximity-analysis-using-python-ffd16c457f19
 https://medium.com/@guandika8/analysis-of-spatial-data-using-osmnx-da9c73b0de0a
 https://medium.com/@CalebMBowyer/research-trend-6-localization-cef3001f5222
+https://towardsdatascience.com/proximity-analysis-to-find-the-nearest-bar-using-python-a29d29a3754d
 
 Semantic Segmentation: buildings, roads...
 https://medium.com/geoalert-platform-urban-monitoring/segment-anything-with-mapflow-b0d3d3b79c1
