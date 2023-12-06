@@ -13,6 +13,8 @@ https://medium.com/@jrballesteros/remote-sensing-datasets-for-artificial-intelli
 https://medium.com/spatial-data-science/deep-learning-for-geospatial-data-applications-semantic-segmentation-596d5d6e7c34
 https://affine.medium.com/see-the-world-through-your-lens-introducing-next-gen-ai-satellite-image-segmentation-solution-a236dda7cf17
 
+Topical HotSpots in Urban Areas:
+https://towardsdatascience.com/identifying-topical-hot-spots-in-urban-areas-3c47cde5ae10
 
 Land cover elevation and slope:
 https://khorkeanteng.medium.com/land-cover-elevation-and-slope-d6b307560178
