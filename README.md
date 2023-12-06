@@ -16,6 +16,7 @@ https://affine.medium.com/see-the-world-through-your-lens-introducing-next-gen-a
 
 Google Earth API:
 https://medium.com/google-earth/python-powers-up-the-rise-of-the-python-api-for-earth-engine-056741eb1b75
+https://medium.com/geoinfomatics/using-google-earth-engine-gee-utilise-the-sentinel-2-imagery-to-generate-the-enhanced-vegetation-4f91a30107ec
 
 Color Correction:
 https://medium.com/@robsimmon/making-sense-of-satellite-data-an-open-source-workflow-color-correction-with-gimp-7ddae0360fea
