@@ -14,6 +14,9 @@ https://medium.com/@jrballesteros/remote-sensing-datasets-for-artificial-intelli
 https://medium.com/spatial-data-science/deep-learning-for-geospatial-data-applications-semantic-segmentation-596d5d6e7c34
 https://affine.medium.com/see-the-world-through-your-lens-introducing-next-gen-ai-satellite-image-segmentation-solution-a236dda7cf17
 
+Google Earth API:
+https://medium.com/google-earth/python-powers-up-the-rise-of-the-python-api-for-earth-engine-056741eb1b75
+
 Color Correction:
 https://medium.com/@robsimmon/making-sense-of-satellite-data-an-open-source-workflow-color-correction-with-gimp-7ddae0360fea
 
