@@ -49,6 +49,7 @@ Geospatial Count of Trees: https://towardsdatascience.com/speed-up-your-geospati
 
 3D Maps:
 https://towardsdatascience.com/say-goodbye-to-flat-maps-with-pydeck-5ce440177bcd
+https://towardsdatascience.com/3d-spatial-data-integration-with-python-7ef8ef14589a
 
 PropTech Tutorial:
 https://blog.streamlit.io/analyzing-real-estate-properties-with-streamlit/
