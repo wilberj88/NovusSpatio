@@ -8,6 +8,9 @@ https://medium.com/@CalebMBowyer/research-trend-6-localization-cef3001f5222
 https://towardsdatascience.com/proximity-analysis-to-find-the-nearest-bar-using-python-a29d29a3754d
 https://blog.stackademic.com/grids-over-earth-optimizing-logistics-using-uber-h3-foundations-for-better-geospatial-analysis-435769f3f216
 
+Real Time Location:
+https://medium.com/@bragadeeshs/mastering-real-time-location-tracking-with-python-and-geospatial-analytics-a42947460216
+
 Semantic Segmentation: buildings, roads...
 https://medium.com/geoalert-platform-urban-monitoring/segment-anything-with-mapflow-b0d3d3b79c1
 https://medium.com/@daniel_819/a-web-map-in-10-lines-of-code-with-streamlit-ellipsis-and-folium-6e41f7407d68
