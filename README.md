@@ -18,6 +18,7 @@ https://medium.com/@jrballesteros/remote-sensing-datasets-for-artificial-intelli
 https://medium.com/spatial-data-science/deep-learning-for-geospatial-data-applications-semantic-segmentation-596d5d6e7c34
 https://affine.medium.com/see-the-world-through-your-lens-introducing-next-gen-ai-satellite-image-segmentation-solution-a236dda7cf17
 https://medium.com/@skavinskyy/predicting-building-layout-from-satellite-images-with-machine-learning-0da06b684e55
+With MapFlow API: https://geoalert.medium.com/how-to-run-bulk-processing-for-feature-extraction-with-mapflow-api-b5c56b4a240
 
 Google Earth API:
 https://medium.com/google-earth/python-powers-up-the-rise-of-the-python-api-for-earth-engine-056741eb1b75
