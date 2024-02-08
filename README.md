@@ -20,6 +20,9 @@ https://affine.medium.com/see-the-world-through-your-lens-introducing-next-gen-a
 https://medium.com/@skavinskyy/predicting-building-layout-from-satellite-images-with-machine-learning-0da06b684e55
 With MapFlow API: https://geoalert.medium.com/how-to-run-bulk-processing-for-feature-extraction-with-mapflow-api-b5c56b4a240
 
+Sentinel Data:
+https://medium.com/rotten-grapes/download-sentinel-data-within-seconds-in-python-8cc9a8c3e23c
+
 Google Earth API:
 https://medium.com/google-earth/python-powers-up-the-rise-of-the-python-api-for-earth-engine-056741eb1b75
 https://medium.com/geoinfomatics/using-google-earth-engine-gee-utilise-the-sentinel-2-imagery-to-generate-the-enhanced-vegetation-4f91a30107ec
