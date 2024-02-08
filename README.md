@@ -8,6 +8,9 @@ https://medium.com/@CalebMBowyer/research-trend-6-localization-cef3001f5222
 https://towardsdatascience.com/proximity-analysis-to-find-the-nearest-bar-using-python-a29d29a3754d
 https://blog.stackademic.com/grids-over-earth-optimizing-logistics-using-uber-h3-foundations-for-better-geospatial-analysis-435769f3f216
 
+Earthpy:
+https://python.plainenglish.io/earthpy-simplifying-geospatial-data-analysis-in-python-cb5236d83709
+
 Real Time Location:
 https://medium.com/@bragadeeshs/mastering-real-time-location-tracking-with-python-and-geospatial-analytics-a42947460216
 
