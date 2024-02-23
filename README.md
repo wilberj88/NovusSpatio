@@ -13,6 +13,7 @@ https://python.plainenglish.io/earthpy-simplifying-geospatial-data-analysis-in-p
 
 Real Time Location:
 https://medium.com/@bragadeeshs/mastering-real-time-location-tracking-with-python-and-geospatial-analytics-a42947460216
+Looking areas: https://towardsdatascience.com/satellites-can-see-invisible-lava-flows-and-active-wildires-but-how-python-371915464d1c
 
 Semantic Segmentation: buildings, roads...
 https://medium.com/geoalert-platform-urban-monitoring/segment-anything-with-mapflow-b0d3d3b79c1
