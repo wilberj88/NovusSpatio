@@ -8,6 +8,9 @@ https://medium.com/@CalebMBowyer/research-trend-6-localization-cef3001f5222
 https://towardsdatascience.com/proximity-analysis-to-find-the-nearest-bar-using-python-a29d29a3754d
 https://blog.stackademic.com/grids-over-earth-optimizing-logistics-using-uber-h3-foundations-for-better-geospatial-analysis-435769f3f216
 
+3D Rain visualization
+https://studio.foursquare.com/public/05fb384f-e3e2-472f-b9ab-914a74f3adc5
+
 Earthpy:
 https://python.plainenglish.io/earthpy-simplifying-geospatial-data-analysis-in-python-cb5236d83709
 
