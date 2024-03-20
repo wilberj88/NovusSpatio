@@ -7,6 +7,7 @@ https://medium.com/@guandika8/analysis-of-spatial-data-using-osmnx-da9c73b0de0a
 https://medium.com/@CalebMBowyer/research-trend-6-localization-cef3001f5222
 https://towardsdatascience.com/proximity-analysis-to-find-the-nearest-bar-using-python-a29d29a3754d
 https://blog.stackademic.com/grids-over-earth-optimizing-logistics-using-uber-h3-foundations-for-better-geospatial-analysis-435769f3f216
+https://towardsdatascience.com/exploring-location-data-using-a-hexagon-grid-3509b68b04a2
 
 earth twin by Nvidia: https://nvidianews.nvidia.com/news/nvidia-announces-earth-climate-digital-twin
 
