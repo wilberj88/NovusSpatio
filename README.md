@@ -1,5 +1,8 @@
 # NovusSpatio
 
+Microsoft Planetary Computer:
+https://medium.com/@geonextgis/getting-started-with-microsoft-planetary-computer-stac-api-67cbebe96e5e
+
 Territory Search System:
 https://medium.com/@shaikhrayyan123/guide-to-building-a-campground-search-system-with-llama2-streamlit-folium-and-qdrant-2b28b8738306
 
