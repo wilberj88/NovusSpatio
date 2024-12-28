@@ -1,4 +1,6 @@
 # NovusSpatio
+3D Geospatial Visualization
+https://medium.com/@animagun/building-a-scalable-3d-geospatial-visualization-system-with-open-source-tools-%EF%B8%8F-9f348feb7e30
 
 Microsoft Planetary Computer:
 https://medium.com/@geonextgis/getting-started-with-microsoft-planetary-computer-stac-api-67cbebe96e5e
